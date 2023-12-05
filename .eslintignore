@@ -1,0 +1,8 @@
+dist
+coverage
+docs
+webpack.config.js
+.github
+e2e
+__tests__
+postcss.config.js
